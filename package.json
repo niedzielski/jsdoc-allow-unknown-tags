@@ -1,0 +1,14 @@
+{
+  "name": "jsdoc-allow-unknown-tags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jsdoc -c .jsdoc.json *.js"
+  },
+  "author": "Stephen Niedzielski <stephen@niedzielski.com> (niedzielski.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "3.5.5"
+  }
+}
